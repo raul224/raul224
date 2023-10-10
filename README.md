@@ -5,6 +5,6 @@
 <a href="https://twitter.com/raulpires_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
 
-### Olá 👋
+## Olá 👋
 
-# Eu sou o Raul, tenho 3 anos de experiência com desenvolvimento e estou sempre em buscar de ser melhor.
+### Eu sou o Raul, tenho 3 anos de experiência com desenvolvimento e estou sempre em buscar de ser melhor.
